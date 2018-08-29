@@ -1,0 +1,21 @@
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Viktors Jasunovs      Juni  RW   LW   20   5'7     161     73   63   90   60   56   56   48   48   29   62   47   79   53   45   37   37   66   57   41   56
+Zemgus Girgensons     MIN   LW   C    26   6'1     203     75   76   90   73   72   75   72   75   72   75   61   76   67   67   75   58   85   73   73   73
+Rudolfs Balcers       SJB   LW   RW   23   5'11    175     76   67   100  54   54   69   71   73   54   73   68   89   68   51   69   75   78   59   66   69
+Ronalds Kenins        UFA   LW   RW   29   6'0     201     69   71   100  55   54   56   76   67   71   75   51   72   58   60   62   48   76   55   71   66
+Martins Dzierkals     Juni  LW   C    23   5'11    169     76   66   100  57   59   60   57   53   49   71   79   74   52   50   58   41   72   58   53   64
+Rihards Bukarts       BEL   LW   RW   24   5'10    192     73   63   100  59   52   52   63   55   52   56   66   75   73   48   62   73   84   54   56   63
+Kristers Gudlevskis   OTT   G    -    27   6'3     214     73   69   90   73   74   74   73   74   75   73   66   75   74   63   73   40   78   73   74   73
+Matiss Kivlenieks     CLE   G    -    23   6'2     178     66   72   95   68   68   68   67   67   67   67   67   76   65   55   65   40   79   68   67   68
+Elvis Merzlikins      CLE   G    -    26   6'3     183     73   70   90   51   56   46   58   48   43   65   60   70   54   54   51   35   81   51   49   59
+Mareks Mitens         Draf  G    -    22   6'1     178     61   69   95   52   53   59   56   54   52   56   43   76   55   45   43   28   78   54   54   57
+Kristofers Bindulis   HER   D    -    24   6'2     192     74   75   120  51   52   46   58   59   70   75   75   75   74   58   74   64   84   49   62   69
+Guntis Galvins        UFA   D    -    34   6'1     192     75   70   120  63   51   53   73   73   72   67   61   80   49   55   69   35   83   55   72   68
+Karlis Cukste         SJB   D    -    23   6'2     203     75   68   110  62   54   60   69   64   65   52   66   72   65   49   74   52   79   58   66   67
+Kristaps Sotnieks     UFA   D    -    33   6'0     205     76   78   120  32   34   34   73   74   67   70   89   70   55   61   70   28   70   33   71   66
+Arturs Kulda          UFA   D    -    31   6'2     215     74   79   120  47   48   48   73   71   72   68   66   57   47   53   71   31   74   47   72   66
+Oskars Bartulis       UFA   D    LW   33   6'1     180     74   77   120  41   38   45   73   73   64   72   58   72   49   64   61   44   85   41   70   65
+Harjis Brants         Juni  D    -    18   5'11    181     76   76   115  30   40   36   56   57   54   53   55   63   36   61   53   41   80   35   55   57
+Dmitry Semak          Draf  D    -    19   6'3     224     66   12   91   23   34   30   65   67   66   64   42   81   32   61   54   33   95   29   66   52
+Theodor Blueger       UFA   C    LW   25   6'0     185     69   76   95   59   67   69   66   70   62   69   74   78   70   57   58   70   81   65   66   69
+Rodrigo Abols         UFA   C    LW   24   6'4     188     69   63   110  52   49   50   54   53   49   52   64   79   53   53   58   41   73   50   52   60

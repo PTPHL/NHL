@@ -1,0 +1,9 @@
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Mats Zuccarello       NJD   RW   LW   32   5'8     179     78   74   90   75   80   78   78   77   58   78   78   79   65   65   64   29   74   77   71   74
+Jorgen Karterud       TOM   RW   LW   26   6'4     190     69   65   110  66   76   40   52   39   51   40   52   71   45   54   54   71   85   60   47   58
+Patrick Thoresen      UFA   LW   C    36   6'0     201     76   66   80   71   73   74   75   69   67   72   68   78   66   57   65   45   72   72   70   70
+Andreas Martinsen     UFA   LW   C    30   6'3     229     69   75   90   63   51   70   70   70   74   70   84   70   62   60   70   58   85   61   71   69
+Kristian Marthinsen   Juni  LW   RW   20   6'0     185     71   58   100  51   55   55   40   47   36   60   51   67   56   47   38   29   76   53   41   55
+Lars Haugen           UFA   G    -    33   6'0     183     73   71   95   72   73   72   71   73   72   72   79   84   73   53   57   35   72   72   72   72
+Ken Andre Olimb       UFA   C    LW   31   5'10    176     76   65   100  67   72   70   63   61   55   76   70   80   63   59   59   36   84   69   59   69
+Mathias Emilio Pette  Juni  C    LW   20   5'9     169     76   61   95   59   61   59   45   54   46   67   54   79   68   47   44   24   70   59   48   61

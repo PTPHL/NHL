@@ -1,0 +1,11 @@
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Brian Lebler          UFA   RW   LW   31   6'3     212     74   67   90   72   65   65   68   61   64   68   47   78   61   60   67   36   79   67   64   67
+Frankl Höfler         Draf  RW   LW   17   6'1     195     63   57   82   54   36   47   36   38   36   56   59   61   29   63   45   19   63   45   36   50
+Zelimir Lischka       Draf  RW   LW   18   5'7     167     63   28   75   40   35   35   26   34   18   42   48   70   25   46   16   10   75   36   26   40
+Michael Raffl         UFA   LW   C    31   6'0     200     75   70   90   72   66   74   74   75   74   75   75   79   72   66   75   38   77   70   74   74
+Michael Grabner       UFA   LW   RW   32   6'1     185     75   64   85   77   69   73   75   75   65   75   77   84   71   60   75   38   77   73   71   73
+Thomas Vanek          UFA   LW   RW   36   6'2     214     83   67   90   74   75   77   65   64   60   70   68   68   60   62   78   31   82   75   63   70
+Manfred Prock         Draf  LW   C    18   6'1     177     53   27   105  42   45   45   34   27   35   44   57   74   39   52   45   13   70   44   32   48
+Mario Altmann         UFA   D    -    33   6'4     216     74   78   120  34   40   38   74   74   72   66   51   77   52   58   74   38   79   37   73   65
+Marco Rossi           Juni  C    RW   18   5'9     154     83   79   99   58   55   58   55   58   51   57   56   75   55   47   70   41   78   57   54   63
+Lukas Haudum          Draf  C    LW   23   6'0     183     75   52   100  52   54   52   53   53   54   58   56   72   60   52   48   29   79   52   53   59

@@ -1,0 +1,21 @@
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Maxim Sushko          LHV   RW   LW   21   6'0     181     73   64   90   69   72   71   58   70   67   74   73   80   67   50   70   60   71   70   65   69
+Leonid Marov          Draf  RW   -    18   6'0     172     43   44   89   43   44   49   36   39   33   61   62   79   25   54   53   14   80   45   36   50
+Andrei Kostitsyn      UFA   LW   RW   35   6'0     205     83   63   80   73   71   75   74   66   69   80   58   72   56   59   72   30   83   73   69   70
+Mikhail Grabovski     UFA   LW   C    36   5'11    186     78   67   80   69   74   75   72   71   64   81   50   77   70   58   58   28   79   72   69   69
+Sergei Kostitsyn      UFA   LW   C    33   6'0     196     78   63   80   68   72   75   67   69   58   76   56   86   65   50   65   47   72   71   64   68
+Pavel Karnaukhov      STO   LW   C    23   6'3     206     69   70   95   49   53   67   52   57   65   61   58   75   69   50   70   71   85   56   58   64
+Dmitri Korobov        UFA   D    -    31   6'3     230     74   71   120  45   46   53   71   73   71   70   68   75   48   62   71   34   79   48   71   67
+Stepan Falkovsky      ONT   D    -    23   6'7     224     68   78   120  47   63   47   52   67   67   66   60   76   73   49   70   55   78   52   62   66
+Raman Hrabarenka      UFA   D    -    27   6'3     212     75   67   120  43   42   51   68   68   65   68   73   77   50   55   65   47   78   45   67   65
+Oleg Yevenko          UFA   D    -    29   6'7     230     67   75   120  40   30   32   73   74   75   66   80   55   49   59   75   60   78   34   74   64
+Samuel Knazko         Juni  D    -    17   6'0     170     78   70   120  51   54   50   54   52   54   57   57   71   54   51   52   52   78   51   53   61
+Evgeni Lisovets       UFA   D    -    25   6'0     196     78   68   90   54   57   61   58   59   54   63   48   80   50   55   54   35   70   57   57   61
+Vladislav Eriomenko   Draf  D    -    21   6'0     171     68   72   100  47   53   55   67   62   50   57   53   82   46   51   40   36   70   51   59   60
+Daniil Misyul         Juni  D    -    19   6'3     190     76   74   80   39   34   39   61   62   70   69   67   67   30   68   67   69   80   37   64   60
+Pavel Vorobei         Draf  D    -    22   6'3     198     68   74   110  46   44   48   56   55   52   50   56   75   49   50   47   38   72   46   54   58
+Danila Karaban        ONT   C    LW   23   5'10    170     73   54   100  65   52   52   56   55   52   55   69   77   73   52   40   63   72   56   54   61
+Viktor Mashchenko     Draf  C    RW   19   5'6     156     63   54   88   60   63   60   58   58   25   62   65   90   62   68   27   19   98   61   47   60
+Igor Sharangovich     Draf  C    LW   22   6'0     176     69   55   100  50   49   53   53   53   52   55   51   82   56   50   42   38   76   50   52   58
+Artur Gavrus          Juni  C    LW   26   5'10    175     76   67   90   52   54   60   44   42   40   57   41   79   49   55   47   32   75   55   42   56
+Igor Martynov         Draf  C    LW   21   6'0     181     73   60   100  54   52   52   43   37   40   56   37   77   60   49   45   35   76   52   40   55
