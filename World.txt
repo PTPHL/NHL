@@ -37,7 +37,6 @@ Artur Gavrus          Juni  C    LW   28   5'10    175     56   50   120  53   5
 Evgeny Oistrakh       Juni  C    RW   18   5'9     153     52   50   120  51   67   54   47   40   34   52   53   65   56   53   44   16   78   57   40   55
 Konstantin Yazykov    Draf  C    -    17   5'11    184     54   50   120  46   41   40   39   39   30   45   46   36   57   52   44   34   79   42   36   49
 
-
 FRANCE
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
 Antoine Roussel       UFA   LW   RW   32   6'0     200     59   50   120  57   55   68   76   72   75   78   63   46   67   66   77   68   75   60   74   68
@@ -47,7 +46,6 @@ Alexandre Texier      CLE   LW   C    22   6'0     187     56   50   120  53   5
 Flavien Escude        SJB   LW   RW   21   5'11    185     51   50   120  73   61   64   56   49   41   59   53   88   55   52   40   40   71   66   48   60
 Yohann Auvitu         UFA   D    -    32   6'0     198     55   50   120  58   58   64   71   71   66   72   83   89   48   59   62   25   84   60   69   68
 Stephane Da Costa     UFA   C    RW   32   5'11    180     56   50   120  70   68   71   61   66   54   72   62   79   64   55   58   27   81   69   60   67
-
 
 GERMANY
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
@@ -83,12 +81,10 @@ Leon Draisaitl        COL   C    LW   26   6'1     214     58   50   120  83   8
 Viktor Plage          TOM   C    RW   21   6'2     214     52   50   120  57   74   69   46   65   47   72   72   67   71   64   62   40   60   66   52   65
 Kai Leffler           Draf  C    LW   21   5'9     160     52   50   120  27   40   42   31   30   18   42   26   84   60   46   21   14   72   36   26   45
 
-
 ITALY
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
 Tony Flaherty         Juni  RW   LW   19   6'5     215     54   50   120  61   56   55   48   44   44   61   63   78   27   67   65   59   80   57   45   59
 Mario Manson          Draf  C    RW   28   6'5     225     53   50   120  51   45   38   37   37   32   58   64   79   54   50   63   10   90   44   35   55
-
 
 JAPAN
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
@@ -96,7 +92,6 @@ Yuga Okada            TBL   LW   RW   18   5'8     160     51   50   120  75   7
 Yasunari Matsuhira    HER   D    -    19   6'5     223     57   50   120  50   40   40   69   74   76   76   76   85   76   69   66   76   78   43   73   68
 Daisuke Yamashita     Draf  D    -    18   6'2     204     58   50   120  38   43   44   54   56   54   58   58   68   32   56   53   13   71   41   54   56
 Aito Iguchi           BRG   C    -    18   5'9     170     53   50   120  72   77   76   76   75   69   75   75   83   75   48   53   48   85   75   73   71
-
 
 LATVIA
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
